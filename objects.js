@@ -31,3 +31,4 @@ User.prototype.getFirstName = function () {
 newUser.getFirstName();
 madFlasher.getFirstName();
 
+// TODO: READ ABOUT IIFE - immidiately invoked function expression
