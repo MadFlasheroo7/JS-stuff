@@ -2,12 +2,13 @@
 
 function init() {
     var firstName = "Jayesh";
+    console.log(`init is running`);
     function sayName() {
         console.log(firstName);
     }
-    sayName();
+    return sayName;
 }
 
-init();
-
-console.log(firstName);
+var a = init();
+a();
+// console.log(a());

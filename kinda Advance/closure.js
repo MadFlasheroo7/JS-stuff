@@ -11,8 +11,9 @@ function doAddtion(value1) {
     }
 }
 
-// var add5 = doAddtion(5);
-// console.log(add5(5)); // 10
+var add5 = doAddtion(5);
+console.log(add5(5)); // 10
 
 // the power of closure
+// its also called curring
 console.log(doAddtion(5)(5)); //10 
