@@ -1,4 +1,4 @@
-##About JavaScript
+## About JavaScript
 ---
 JavaScript is a lightweight, dynamic, multi-paradigm, single threaded, interpreted language mainly used for web and mobile development. It was created in 1995 in jus 1 week by Brendan Eich. It was originally name mocha.
 
@@ -9,11 +9,11 @@ Server Side application using **nodejs**
 Mobile application using **React or Ionic**
 Desktop application using **Electron**
 
-##About This Repo
+## About This Repo
 ---
 This Repo contains everything needed to start as a js dev and all code is tried to be well maintained and well documented and any contribution is all ways welcomed.
 
-###How to run?
+### How to run?
 ---
 To Run Js you need to install **node js** and verify its installation by
 ```
